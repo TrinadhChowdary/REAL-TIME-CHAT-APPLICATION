@@ -17,4 +17,4 @@ This is very interactive chat application where we can know different things.
 
 #output:
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/94aded29-edbe-4b26-9d69-9824da26c15c" />
+<img width="1821" height="926" alt="Image" src="https://github.com/user-attachments/assets/05bd26af-18ea-4883-b968-2dba3b165b68" />
