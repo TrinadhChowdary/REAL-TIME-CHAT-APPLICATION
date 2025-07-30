@@ -16,3 +16,5 @@ A modern, responsive, and theme-switchable chat interface built with React and V
 This is very interactive chat application where we can know different things.
 
 #output:
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/94aded29-edbe-4b26-9d69-9824da26c15c" />
